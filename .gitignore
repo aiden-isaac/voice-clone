@@ -1,0 +1,6 @@
+.venv/
+audio/*.wav
+audio/wav/*.wav
+*.ckpt
+*.csv
+output/
